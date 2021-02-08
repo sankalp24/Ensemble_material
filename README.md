@@ -2,4 +2,4 @@
 
 PAPERS
 
-[XGBoost] : (https://arxiv.org/pdf/1706.09516.pdf)
+[ XGBoost ] : (https://arxiv.org/pdf/1706.09516.pdf)
